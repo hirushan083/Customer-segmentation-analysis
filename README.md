@@ -16,6 +16,7 @@ Evaluate model performance using Silhouette Scores and Davies-Bouldin Index.
 Visualize high-dimensional data using PCA (Principal Component Analysis)
 
 🛠️ Tech Stack
+
 Language: Python
 
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
@@ -26,23 +27,28 @@ Environment: Jupyter Notebook / Streamlit (for deployment)
 The analysis successfully identified five primary customer segments:
 
 High Earners, High Spenders: Target for luxury rewards.
+
 High Earners, Low Spenders: Target for high-end promotional offers.
+
 Average Earners, Average Spenders: The stable "standard" customer.
+
 Low Earners, High Spenders: Often younger consumers or trend-driven.
+
 Low Earners, Low Spenders: Price-sensitive customers.
 
 💻 How to Run
+
 Clone the repository
 
-git clone https://github.com/hirushan083/Customer-segmentation-analysis.git
+     git clone https://github.com/hirushan083/Customer-segmentation-analysis.git
 
 Install dependencies
 
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 Run on cmd
 
-streamlit run app.py
+     streamlit run app.py
 
 ✍️ Author
 **Kavindu Hirushan**
