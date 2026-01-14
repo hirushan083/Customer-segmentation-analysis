@@ -10,32 +10,32 @@ This project uses the "Mall Customers" dataset to perform clustering analysis. B
 
 Key Objectives:
 
-Perform exploratory data analysis (EDA) to understand customer distributions.
+* Perform exploratory data analysis (EDA) to understand customer distributions.
 
-Apply K-Means and DBSCAN clustering to find natural groupings.
+* Apply K-Means and DBSCAN clustering to find natural groupings.
 
-Evaluate model performance using Silhouette Scores and Davies-Bouldin Index.
+* Evaluate model performance using Silhouette Scores and Davies-Bouldin Index.
 
-Visualize high-dimensional data using PCA (Principal Component Analysis)
+* Visualize high-dimensional data using PCA (Principal Component Analysis)
 
 🛠️ Tech Stack
 
-Language: Python
-Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-Environment: Jupyter Notebook / Streamlit (for deployment)
+* Language: Python
+*  Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+* Environment: Jupyter Notebook / Streamlit (for deployment)
 
 📈 Key Results
 The analysis successfully identified five primary customer segments:
 
-High Earners, High Spenders: Target for luxury rewards.
+* High Earners, High Spenders: Target for luxury rewards.
 
-High Earners, Low Spenders: Target for high-end promotional offers.
+* High Earners, Low Spenders: Target for high-end promotional offers.
 
-Average Earners, Average Spenders: The stable "standard" customer.
+* Average Earners, Average Spenders: The stable "standard" customer.
 
-Low Earners, High Spenders: Often younger consumers or trend-driven.
+* Low Earners, High Spenders: Often younger consumers or trend-driven.
 
-Low Earners, Low Spenders: Price-sensitive customers.
+* Low Earners, Low Spenders: Price-sensitive customers.
 
 💻 How to Run
 
