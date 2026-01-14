@@ -11,16 +11,17 @@ This project uses the "Mall Customers" dataset to perform clustering analysis. B
 Key Objectives:
 
 Perform exploratory data analysis (EDA) to understand customer distributions.
+
 Apply K-Means and DBSCAN clustering to find natural groupings.
+
 Evaluate model performance using Silhouette Scores and Davies-Bouldin Index.
+
 Visualize high-dimensional data using PCA (Principal Component Analysis)
 
 🛠️ Tech Stack
 
 Language: Python
-
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-
 Environment: Jupyter Notebook / Streamlit (for deployment)
 
 📈 Key Results
@@ -54,7 +55,7 @@ Run on cmd
 **Kavindu Hirushan**
 * GitHub: [@hirushan083](https://github.com/hirushan083)
 * Email: kavinduhirushan083@gmail.com
-* 
+ 
 📂 Dataset Source
 The dataset used in this project is the **Mall Customer Segmentation Data**, which is a popular dataset for learning unsupervised machine learning concepts.
 
